@@ -1,0 +1,10 @@
+{
+  "description": "A sleek PC optimization dashboard for gamers to manage performance, privacy, network, and system settings, track playtime, train aim, and control Spotify.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
